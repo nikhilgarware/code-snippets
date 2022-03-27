@@ -14,6 +14,6 @@ const utility = {
 const electrical = {
   electricalMeter: "electrical-meters",
 };
-
+// This is the spread operator ...
 const neutral = { ...utility, ...electrical };
 console.log(neutral);
