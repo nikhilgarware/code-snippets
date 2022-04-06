@@ -6,7 +6,6 @@
 from comm_services import public as comm_service_public
 
 SENDMAIL_USING_SENDGRID = true
-SENDGRID_API_KEY = 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
 
 
 context_data = {}  # the data which has to be shared in json to the email template
