@@ -9,6 +9,6 @@ SENDMAIL_USING_SENDGRID = true
 
 
 context_data = {}  # the data which has to be shared in json to the email template
-to_mails = ["nikhil@enerlly.com"]
+to_mails = ["nikhil@enerlly.com", "ganesh@enerlly.com"]
 
 comm_service_public.send_email("testing", to_mails, context_data)
