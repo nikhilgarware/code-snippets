@@ -1,0 +1,90 @@
+[
+  {
+    "id": "1",
+    "type": "input",
+    "data": { "label": "66 kVa Incomer" },
+    "position": { "x": 777, "y": 0 },
+    "targetPosition": "top",
+    "sourcePosition": "bottom"
+  },
+  {
+    "id": "2",
+    "data": { "label": "Transformer 1" },
+    "position": { "x": 666, "y": 86 },
+    "style": { "background": "pink" },
+    "targetPosition": "top",
+    "sourcePosition": "bottom"
+  },
+  {
+    "id": "2a",
+    "data": { "label": "Induction Furnace" },
+    "position": { "x": 444, "y": 172 },
+    "targetPosition": "top",
+    "sourcePosition": "bottom"
+  },
+  {
+    "id": "2b",
+    "data": { "label": "Boiler" },
+    "position": { "x": 666, "y": 172 },
+    "targetPosition": "top",
+    "sourcePosition": "bottom"
+  },
+  {
+    "id": "2c",
+    "data": { "label": "Machine Shop" },
+    "position": { "x": 888, "y": 172 },
+    "targetPosition": "top",
+    "sourcePosition": "bottom"
+  },
+  {
+    "id": "2d",
+    "data": { "label": "CNC Machine" },
+    "position": { "x": 888, "y": 258 },
+    "targetPosition": "top",
+    "sourcePosition": "bottom"
+  },
+  {
+    "id": "3",
+    "data": { "label": "Painting Booth" },
+    "position": { "x": 888, "y": 86 },
+    "targetPosition": "top",
+    "sourcePosition": "bottom"
+  },
+  {
+    "id": "4",
+    "data": { "label": "DG Set" },
+    "position": { "x": 333, "y": 0 },
+    "targetPosition": "top",
+    "sourcePosition": "bottom"
+  },
+  {
+    "id": "5",
+    "data": { "label": "33 kVa Incomer" },
+    "position": { "x": 0, "y": 0 },
+    "targetPosition": "top",
+    "sourcePosition": "bottom"
+  },
+  {
+    "id": "6",
+    "type": "output",
+    "data": { "label": "Security Gate" },
+    "position": { "x": 0, "y": 86 },
+    "targetPosition": "top",
+    "sourcePosition": "bottom"
+  },
+  {
+    "id": "7",
+    "data": { "label": "Plants Lights" },
+    "position": { "x": 222, "y": 86 },
+    "targetPosition": "top",
+    "sourcePosition": "bottom"
+  },
+  {
+    "id": "8",
+    "type": "output",
+    "data": { "label": "Streat Light" },
+    "position": { "x": 222, "y": 172 },
+    "targetPosition": "top",
+    "sourcePosition": "bottom"
+  }
+]

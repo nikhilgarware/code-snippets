@@ -1,0 +1,38 @@
+.main{
+    background-color: whitesmoke;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.modal{
+    background-color: lightgray;
+    width: 50%;
+    height: 200px;
+    justify-content: center;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgb(52, 50, 50);
+    transition: 200ms;
+    
+
+}
+/* .modal:hover{
+    height: 400px;
+    width: 70%;
+    transition: 200ms;
+} */
+
+.slogan{
+    margin-top: 20px;
+    font-family: 'Teko', sans-serif;
+    margin-left: 10px;
+}
+.breaker{
+    border-top: 1px solid black;
+    margin: 5px;
+}
+.support-slogan{
+    font-family: 'Indie Flower', cursive;
+    font-size: 30;
+    text-align: center;
+
+}
